@@ -1,0 +1,134 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Arial", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #000000;
+}
+
+h1 {
+  width: 410px;
+  margin: 0 auto 8px;
+  font-family: "Georgia", serif;
+  text-align: center;
+  font-weight: normal;
+  font-size: 70px;
+  line-height: 64px;
+}
+
+h2 {
+  border-bottom: 2px solid #cccccc;
+  padding-bottom: 12px;
+}
+
+.container {
+  width: 510px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.site-header {
+  min-width: 550px;
+  height: 186px;
+  margin-bottom: 70px;
+  padding-top: 30px;
+  background: #5212b9fb no-repeat center url("");
+  background-size: cover;
+  color: #ffffff;
+}
+
+.site-header p {
+  width: 255px;
+  margin: 0 auto 26px;
+  text-align: center;
+  font-size: 16px;
+  line-height: 24px; 
+}
+
+.site-header img {
+  display: block;
+  margin: 0 auto;
+}
+
+.features {
+  width: 510px;
+  margin: 0 auto 30px;
+  padding: 0 20px;
+}
+
+.features p {
+  display: inline-block;
+  vertical-align: top;
+  width: 30%;
+  margin: 0 5px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  text-align: center;
+}
+
+.feature-furniture {
+  padding-top: 65px;
+  background-image: url("img/Tilda_Icons_1_Education/Tilda_Icons_1ed_book.svg");
+  background-size:64px ;
+}
+
+.feature-lighting {
+  padding-top: 65px;
+  background-image: url("img/Tilda_Icons_2_Webinar/Tilda_Icons_2web_letter.svg");
+  background-size: 65px ;
+}
+
+.feature-accessories {
+  padding-top: 65px;
+  background-image: url("img/Tilda_Icons_1_Education/Tilda_Icons_1ed_cup.svg");
+  background-size: 62px;
+}
+
+.advantages {
+  width: 510px;
+  margin: 0 auto 40px;
+  padding: 0 20px;
+}
+
+.advantages-list {
+  padding: 0;
+  list-style: none;  
+}
+
+.advantages-item {
+  margin-bottom: 15px;
+  padding-left: 20px;
+  border-left: 20px solid #e2e2e2;
+  color: #999999;
+}
+
+.standard {
+  border-color: #5212b9fb;
+  color: #6a6a6a;
+}
+
+.vip {
+  border-color: #ffb864;
+  color: #000000;
+}
+
+.site-footer {
+  min-width: 550px;
+  background-color: #5212b9fb;
+  color: #ffffff;
+}
+
+.site-footer .container {
+  text-align: center;
+}
+
+.site-footer p {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0 20px;
+}
+img {
+  padding-left: 25%;
+}
+
